@@ -2,3 +2,9 @@
 variavel_numerica = 2
 
 print(variavel_numerica)
+
+variavel_string = "Está escrito aqui"
+
+converter_string = str(variavel_numerica)
+
+print(variavel_string + ": " + converter_string)
