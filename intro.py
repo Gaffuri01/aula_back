@@ -8,3 +8,8 @@ variavel_string = "Está escrito aqui"
 converter_string = str(variavel_numerica)
 
 print(variavel_string + ": " + converter_string)
+
+
+def somar_valores(val1, val2):
+    return val1 + val2
+
